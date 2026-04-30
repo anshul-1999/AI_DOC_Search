@@ -28,3 +28,8 @@ Upload a PDF and ask questions like:
 - What are the key findings?
 - Explain section 2
 
+<img width="1920" height="1080" alt="Screenshot (152)" src="https://github.com/user-attachments/assets/b99a99d9-8225-4a95-b3fe-9cecb6a22437" />
+
+<img width="1920" height="1080" alt="Screenshot (153)" src="https://github.com/user-attachments/assets/0795914a-d18b-4b61-8903-5a57464c80e9" />
+
+<img width="1920" height="1080" alt="Screenshot (154)" src="https://github.com/user-attachments/assets/8f85abf1-e6ed-4559-a929-c3a5d1f3fecf" />
